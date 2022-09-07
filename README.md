@@ -45,3 +45,7 @@ Option | Description | Type | Default | Required?
 -t |  Enables to define custom backend and frontend templates. |  bool | false | No
 
 - 📖 Docs: <https://github.com/NotReeceHarris/project-wizard/wiki/Command-create>
+
+# 
+
+<sub>we are sponsored by the [FOSS topics discord server](https://discord.gg/7bPxMgFnDD)</sub> <br>
