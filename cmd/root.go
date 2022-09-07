@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/NotReeceHarris/project-wizard/pkg/pwizard"
-	"github.com/NotReeceHarris/project-wizard/pkg/registry"
+	"github.com/NotReeceHarris/project-wizard/v1/pkg/pwizard"
+	"github.com/NotReeceHarris/project-wizard/v1/pkg/registry"
 	"github.com/spf13/cobra"
 )
 

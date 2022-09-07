@@ -3,8 +3,6 @@ package cmd
 import (
 	"os/exec"
 
-	"github.com/NotReeceHarris/project-wizard/pkg/registry"
-	"github.com/sanbornm/go-selfupdate/selfupdate"
 	"github.com/spf13/cobra"
 )
 
@@ -21,15 +19,6 @@ var updateCmd = &cobra.Command{
 }
 
 func runUpdateCmd(cmd *cobra.Command, args []string) error {
-
-	var updater = &selfupdate.Updater{
-		CurrentVersion: registry.CLIVersion,
-		CmdName:        "pwizard", // app name
-	}
-
-	if updater != nil {
-		go updater.BackgroundRun()
-	}
 
 	exec.Command("go install github.com/NotReeceHarris/project-wizard/cmd/pwizard@latest").Output()
 	return nil
