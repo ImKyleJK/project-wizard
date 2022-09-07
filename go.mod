@@ -1,4 +1,4 @@
-module github.com/NotReeceHarris/project-wizard
+module github.com/NotReeceHarris/project-wizard/v1
 
 go 1.19
 
