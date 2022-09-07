@@ -1,6 +1,6 @@
 name | description | languages
 --- | --- | ---
-Nodejs | Minimal nodejs setup | javascript
+Nodejs | Nodejs hello world template | javascript | NotReeceHarris
 
 
 # index.js
