@@ -42,4 +42,4 @@ First make sure you read the [`contribution.md`](/contribution.md), once you und
 
 # 
 
-<sub>We are sponsored by the [FOSS topics discord server](https://discord.gg/7bPxMgFnDD)</sub> <br>
+<sub>We are sponsored by the [FOSS discovery discord server](https://discord.gg/7bPxMgFnDD)</sub> <br>
