@@ -32,7 +32,7 @@ That's all you need to know to create a project! 🎉
 CLI command for create a new project with the interactive console UI.
 
 ```
-cgapp create [OPTION]
+pwizard create [OPTION]
 ```
 
 Option |	Description | Type | Default | Required?
