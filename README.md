@@ -40,22 +40,6 @@ First make sure you read the [`contribution.md`](/contribution.md), once you und
 - [Cli app](../../tree/stage)
 - [Templates](../../tree/templates)
 
-## ⚙️ Commands & Options
-
-### `create`
-
-CLI command for create a new project with the interactive console UI.
-
-```bash
-pwizard create [OPTION]
-```
-
-Option | Description | Type | Default | Required?
---- | --- | --- | --- | ---
--t |  Enables the ability to define custom backend and frontend templates. |  bool | false | No
-
-- 📖 Docs: <https://github.com/NotReeceHarris/project-wizard/wiki/Command-create>
-
 # 
 
 <sub>We are sponsored by the [FOSS topics discord server](https://discord.gg/7bPxMgFnDD)</sub> <br>
