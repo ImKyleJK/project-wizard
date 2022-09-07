@@ -5,7 +5,7 @@
 ```diff
 - Currently under development, this is not a working application!
 ```
-
+<!--
 ## ⚡️ Quick start
 
 First, [download](https://go.dev/dl/) and install Go. Version 1.19 or higher is required.
@@ -41,12 +41,9 @@ project-wizard runs best when the community adds a helping hand, If you are will
 ### How to contribute?
 First make sure you read the [`contribution.md`](/contribution.md), once you understand how to contribute next is to figure out what you want to contribute to. (Find the links below)
 
-- [Cli app](../../tree/stage)
+- [Cli app](../../tree/development)
 - [Templates](../../tree/templates)
-
-## 📚 TLDR;
-This is my first mess around with go, I took heavy insperation from [create-go-app](https://github.com/create-go-app/cli). if you have any suggesions or tricks you would recommend send me an [email](mailto:reeceharris@email.com) or connect with me on [linkedin](https://www.linkedin.com/in/notreeceharris/).
-
+-->
 # 
 
 <sub>We are sponsored by the [FOSS discovery discord server](https://discord.gg/7bPxMgFnDD)</sub> <br>
