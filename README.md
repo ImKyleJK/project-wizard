@@ -30,6 +30,16 @@ pwizard create
 
 That's all you need to know to create a project! 🎉
 
+## 👋 Contribution
+
+project-wizard runs best when the community adds a helping hand, If you are willing to contribute why not start by making a project template. Project templates is the backbone of project-wizard, without constant updates and additions project-wizard would become depricated as the time goes past.
+
+### How to contribute?
+First make sure you read the [`contribution.md`](/contribution.md), once you understand how to contribute next is to figure out what you want to contribute to. (Find the links below)
+
+- [Cli app](../../tree/stage)
+- [Templates](../../tree/templates)
+
 ## ⚙️ Commands & Options
 
 ### `create`
