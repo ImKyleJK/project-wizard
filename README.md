@@ -2,6 +2,10 @@
 
 > Easily setup a new project with templates, select from hundreds of template projects from frameworks to tech stacks all from the CLI.
 
+```diff
+- Currently under development, this is not a working application!
+```
+
 ## ⚡️ Quick start
 
 First, [download](https://go.dev/dl/) and install Go. Version 1.19 or higher is required.
