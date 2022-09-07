@@ -44,6 +44,9 @@ First make sure you read the [`contribution.md`](/contribution.md), once you und
 - [Cli app](../../tree/stage)
 - [Templates](../../tree/templates)
 
+## 📚 TLDR;
+This is my first mess around with go, I took heavy insperation from [create-go-app](https://github.com/create-go-app/cli). if you have any suggesions or tricks you would recommend send me an [email](mailto:reeceharris@email.com) or connect with me on [linkedin](https://www.linkedin.com/in/notreeceharris/).
+
 # 
 
 <sub>We are sponsored by the [FOSS discovery discord server](https://discord.gg/7bPxMgFnDD)</sub> <br>
