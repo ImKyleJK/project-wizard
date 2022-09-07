@@ -119,4 +119,4 @@ dist
 
 command name | command | params
 --- | --- | ---
-Setup npm package manager | npm i |
+Setup npm package manager | npm init |
